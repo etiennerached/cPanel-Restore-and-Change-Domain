@@ -7,8 +7,6 @@ This will be done from the command line (SSH).
 
 The script must run with root privileges, otherwise it won't work.
 
-All you have to do is fill the configurations on top, and run the BASH script using the command:
-
-bash cPanelRestoreAndChangeDomain.sh
+All you have to do is fill the configurations on top, and run the BASH script using the command: bash cPanelRestoreAndChangeDomain.sh
 
 You may also add it to a cron job to perform this task frequently.
